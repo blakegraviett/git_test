@@ -1,2 +1,5 @@
 # git_test
-test for the odin project
+My first GitHub repo!
+Hello Odin!
+Landon is dumb
+
